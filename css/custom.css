@@ -1,0 +1,56 @@
+/* customize css for my facebook_clone */
+#pagelet_bluebar{
+	background-color: #43609c;
+	
+}
+.row.row_top{
+	width: 980px;
+	height: 79px;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: .5rem;
+}
+.row{
+	width: 1050px;
+	margin-right: auto;
+	margin-left: auto;
+}
+ #inputEmail1,
+ #inputPassword1 {
+ 	height: 25px;
+ 	border-radius: 0;
+ }
+ .btn {
+ 	width: 200px;
+ }
+ .btn.btn-primary.btn-sm{
+ 	width: 70px;
+ }
+ .row.row_first_bottom{
+	width: 1050px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 3rem;
+	padding-bottom: 0.5rem;
+	line-height: 0.1rem;
+	font-size: smaller;
+	border-bottom: solid 1px #dddfe2;
+}
+.row.row_sec_bottom{
+	width: 1050px;
+	margin-right: auto;
+	margin-left: auto;
+	line-height: 0.1rem;
+	margin-top: 1rem;
+	font-size: smaller;
+	padding-bottom: 0.5rem;
+}
+a:hover{
+	text-decoration: none;
+}
+.btn.btn-primary.btn-sm{
+	width: 45px;
+	height: 25px;
+	font-size: xx-small;
+}
+
